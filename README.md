@@ -9,6 +9,8 @@
 
 ## Hi there,
 I'm a high school student with a strong interest in AI and technology. Actively learning and building skills in the IT field. Focused on growth, problem-solving, and real-world applications.
+## My experience
+Experienced in Figma for design and have worked with Python. Currently pursuing a certification in Machine Learning and AI.
 
 ## Languages I speak
 
